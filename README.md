@@ -16,3 +16,7 @@ And my desired fields of study are:
 - machine vision
 - AI
 - robot learning
+
+**Note:** To know more about my technical knowledge please visit my [website](https://hamid-manouchehri.github.io/) and [LinkedIn](https://www.linkedin.com/in/hamid-manouchehri/). :sunglasses:
+
+Thank you. :v:
