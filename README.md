@@ -15,3 +15,4 @@ And my desired fields of study are:
 - wheeled and legged robots
 - machine vision
 - AI
+- robot learning
