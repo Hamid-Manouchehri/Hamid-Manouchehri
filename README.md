@@ -1,4 +1,4 @@
-### Hi there 👋
+### Howdy 👋
 
 I have a master's degree in **Mechatronics Engineering** and interested in **Robotics**, specifically control, simulation and software.
 My previous experiences in this field are:
