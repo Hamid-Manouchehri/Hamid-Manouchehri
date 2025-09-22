@@ -1,21 +1,14 @@
 ### Howdy 👋
 
-I have a master's degree in **Mechatronics Engineering** and interested in **Robotics**, specifically control, simulation and software.
+I am PhD candidate in **Mechanical Engineering** and interested in **Robotics**, specifically control, simulation and learning.
 My previous experiences in this field are:
-- simulation (Gazebo)
+- simulation
 - ROS (Robot Operating System, Melodic)
-- linear and nonlinear control
-- inverse kinematics and dynamics
-- trajectory planning
-- modeling
-- optimization (quadratic programming)
-
-And my desired fields of study are:
-- (mobile) manipulators
-- wheeled and legged robots
-- machine vision
-- AI
-- robot learning
+- Deep Reinforcement Learning
+- Robot dynamics
+- Trajectory planning
+- Modeling and Prototyping
+- Optimization
 
 **Note:** To know more about my technical knowledge please visit my [website](https://hamid-manouchehri.github.io/) and [LinkedIn](https://www.linkedin.com/in/hamid-manouchehri/). :sunglasses:
 
